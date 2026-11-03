@@ -1,14 +1,43 @@
 ---
 name: contract-review-checklist
-description: Contract risk review checklists — clause-by-clause red-flag scanning by contract type, risk grading with rewrite suggestions, missing-clause detection, and a negotiation-ready review report. Not "AI lawyer": structured triage before counsel review.
+description: "Contract risk review checklists — clause-by-clause red-flag scanning by contract type, risk grading with rewrite suggestions, missing-clause detection, and a negotiation-ready review report. Not \"AI lawyer\": structured triage before counsel review."
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: [legal, contracts, risk-review, msa, negotiation]
+tags: "[legal, contracts, risk-review, msa, negotiation]"
 metadata:
-  pricing: $29 / one-time (full 12-checklist library + clause rewrite bank $59)
-  category: legal-automation
-  audience: smb-owners, freelancers, procurement, sales-ops
+
+pricing:
+  free: Free — 2 contract risk summaries/month
+  pro: $29/month — full 12-checklist library + clause rewrite bank
+  annual: $290/year
+  pay_per_use: $19 one-time (single contract review)
+  enterprise: $199/month (company template mapping + compliance link)
+tiers:
+  - id: free
+    name: Free
+    price: Free
+    quota: Free — 2 contract risk summaries/month
+  - id: pro
+    name: Pro Monthly
+    price: $29/month — full 12-checklist library + clause rewrite bank
+    quota: unlimited
+  - id: annual
+    name: Pro Annual
+    price: $290/year
+    quota: unlimited
+  - id: enterprise
+    name: Enterprise
+    price: $199/month (company template mapping + compliance link)
+    quota: team unlimited
+monetization:
+  model: freemium_subscription
+  currency: USD
+  paywall_trigger: free quota exhausted
+  trial_days: 7
+  free_trial: true
+  upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
+
 ---
 
 # Contract Review Checklist Pack
