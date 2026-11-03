@@ -1,6 +1,6 @@
 ---
 name: contract-review-checklist
-description: "Contract risk review checklists — clause-by-clause red-flag scanning by contract type, risk grading with rewrite suggestions, missing-clause detection, and a negotiation-ready review report. Not \"AI lawyer\": structured triage before counsel review."
+description: "Contract risk review checklists — clause-by-clause red-flag scanning by contract type, risk grading with rewrite suggestions, missing-clause detection, and a negotiation-ready review report. Not ”AI lawyer”: structured triage before counsel review."
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
@@ -36,8 +36,7 @@ monetization:
   free_trial: true
   upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
 
----
-# Contract Review Checklist Pack
+---# Contract Review Checklist Pack
 
 ## What problem it solves
 
