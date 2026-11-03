@@ -4,9 +4,7 @@ description: "Contract risk review checklists — clause-by-clause red-flag scan
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: "[legal, contracts, risk-review, msa, negotiation]"
-metadata:
-
+tags: [legal, contracts, risk-review, msa, negotiation]
 pricing:
   free: Free — 2 contract risk summaries/month
   pro: $29/month — full 12-checklist library + clause rewrite bank
@@ -39,7 +37,6 @@ monetization:
   upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
 
 ---
-
 # Contract Review Checklist Pack
 
 ## What problem it solves
