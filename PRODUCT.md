@@ -12,7 +12,6 @@
 | **Pro Monthly** | **$29/month — full 12-checklist library + clause rewrite bank** | Unlimited + full Pro pack + export + template library |
 | Pro Annual | $290/year | Same Pro benefits, annual discount |
 | Enterprise | $199/month (company template mapping + compliance link) | Team unlimited + enterprise templates |
-| Pay per use | $19 one-time (single contract review) | Zero-friction entry for low-frequency users |
 
 ## 2. Pricing skeleton
 
@@ -24,7 +23,7 @@ predictable revenue, heavy-user value captured.
 ```text
 Free tier (Free — 2 contract risk summaries/month)
   → quota exhausted -> paywall prompt
-  → 7-day free trial (no card required)
+  → subscribe on Agensi: https://www.agensi.io/skills/contract-review-checklist-pack
   → Pro Monthly $29/month — full 12-checklist library + clause rewrite bank
   → Pro Annual $290/year
   → Enterprise $199/month (company template mapping + compliance link)
@@ -32,8 +31,6 @@ Free tier (Free — 2 contract risk summaries/month)
 
 ## 4. Success metrics (3 months)
 
-- Free → trial ≥ 15%
-- Trial → paid ≥ 25%
 - Monthly retention ≥ 60%
 - NPS ≥ 45
 
