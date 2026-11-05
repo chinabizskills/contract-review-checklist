@@ -3,7 +3,7 @@
 > Contract risk review checklists — clause-by-clause red-flag scanning by contract type, risk grading with rewrite suggestions, missing-clause detection, and a negotiation-ready review report. Not "AI lawyer": structured triage before counsel review.
 
 **Category:** legal-automation  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $29 (Pro $59).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $29/month · $290/year · $199/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/contract-review-checklist
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $29 (Pro $59). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 2 contract risk summaries/month |
+| Pro Monthly | $29/month | full 12-checklist library + clause rewrite bank |
+| Pro Annual | $290/year | Same Pro benefits, billed yearly |
+| Enterprise | $199/month | company template mapping + compliance link |
+
+Subscribe: https://www.agensi.io/skills/contract-review-checklist-pack
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
