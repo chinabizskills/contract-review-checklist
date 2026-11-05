@@ -18,7 +18,7 @@ Contract risk review checklists — clause-by-clause red-flag scanning by contra
 
 ## Pricing
 
-Free (CC BY 4.0) on GitHub & skills.sh. Curated bundle on Gumroad: $29 (Pro $59).
+Free (CC BY 4.0) on GitHub & skills.sh. Pro $29/month · Pro Annual $290/year · Enterprise $199/month on Agensi: https://www.agensi.io/skills/contract-review-checklist-pack
 
 ## Known Risks and Mitigations
 
